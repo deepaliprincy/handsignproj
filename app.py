@@ -5,8 +5,8 @@ from PIL import Image
 import json
 
 # ---------------- CONFIG ----------------
-MODEL_PATH = "waste_model.keras"
-CLASS_JSON = "class_indices.json"
+MODEL_PATH = "newwwwwaste_model.keras"
+CLASS_JSON = "newwwwclass_indices.json"
 IMG_SIZE = 50  # model input size
 
 # ---------------- LOAD CLASS MAPPING ----------------
